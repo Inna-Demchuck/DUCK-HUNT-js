@@ -1,0 +1,14 @@
+#count {
+    color: red;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+p {
+    color: green;
+}
+
+button {
+    background: yellow;
+    color: #cc0000;
+}
